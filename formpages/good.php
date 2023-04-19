@@ -1,4 +1,4 @@
 
 <p>                        "good choice!" ;)
-    and somthing new
+    and something new
 </p>
